@@ -1,0 +1,9 @@
+Explicação Qualitativa
+
+    Gráfico: O gráfico de dispersão apresenta os valores observados de idade no eixo X e os valores estimados pelo modelo no eixo Y.
+        Caso os pontos estejam próximos da linha vermelha (que representa o ideal), isso indica que o modelo está realizando boas previsões.
+
+    Métricas:
+        MSE: Deve ser o menor possível, refletindo um erro médio reduzido nas previsões.
+        R²: Valores próximos de 1 indicam que o modelo possui boa capacidade de explicação dos dados. Valores baixos sugerem que os preditores 
+        não são adequados para prever a variável dependente.
